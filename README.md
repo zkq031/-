@@ -1,3 +1,10 @@
-# My Awesome Book
+# 关于机器人的实践方法
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+16生物萃英班 资淑梅 320160927360
+
+
+
+
+
+
+

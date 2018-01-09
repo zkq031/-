@@ -6,7 +6,9 @@
 
 首先我们知道，“1+1=2”是事实，但是在笔者一开始写的时候，以为Blockly不认为“1+1=2”是事实，因此就在判断之前加上了条件（如图1），但是后来发现判断句对整个判断并没有起到什么决定性作用，于是就把它删掉了，简化成图二的样子，简化之后的语句照样能够正常运行，且在更改图中黄色框部分的数字之后，计算机能够准确地给出相应的答案（图3）。
 
-![](/assets/TE4LE3HV1MY7CSFZ_YP8@VW.png)![](/assets/CY$N%U%%28CHAP%28_J_~%295K%28@D.png)
+![](/assets/TE4LE3HV1MY7CSFZ_YP8@VW.png)
+
+![](/assets/B8R~}O%29I4`CSJ@VLZM5KN1R.png)
 
 ![](/assets/CG7O6RFCKYRLKE}EJI}GW2R.png)
 

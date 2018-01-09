@@ -8,19 +8,11 @@
 
 ![](/assets/ON%28]H7TVV1UXA2I2GA`GOD7.png)
 
-
-
 ![](/assets/%29P38`K9NV@Z[_W23N68`P$R.png)![](/assets/DOHT$%2830N%29@JRNL26CD04P1.png)![](/assets/C12{0B$O@JEDVN5RGWWGUIO.png)
-
-
 
 图4. “三天打渔两天晒网”的Blockly板块图及其运行过程和结果。
 
 从图中看来，该板块的运行没有什么大的问题，且图中所示的Blockly板块比较精简，但是在笔者前期编写是时候，代码是图中中4倍长，但是其运算的结果却不那么尽人意。因此在写代码的时候，一定要注意取舍得当，有时候编写一些无所谓的条件进去，计算机反而无法计算。“三天打渔两天晒网”的XML代码如下。
 
-![](/assets/UF089J~JYKF$P2FQ~R2$%28HE.png)
-
-
-
-
+![](/assets/VC_2SA5N@31J2BSNDN_J6I5.png)
 

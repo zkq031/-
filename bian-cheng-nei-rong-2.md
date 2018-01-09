@@ -6,7 +6,7 @@
 
 “三天打渔两天晒网”的运行结果如下，为印证其准确性，笔者特地进行了多个数字的检测，如下图。
 
-![](/assets/ON%28]H7TVV1UXA2I2GA`GOD7.png)
+![](/assets/ON%28]H7TVV1UXA2I2GA`GOD7.png)![](/assets/%28HIOZ0@1]GGE1Q]9N}EKTZA.png)
 
 图4. “三天打渔两天晒网”的Blockly板块图及其运行过程和结果。
 
